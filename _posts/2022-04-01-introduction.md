@@ -13,4 +13,4 @@ Noun: a person or thing seen as comparable to another.
 
 I'll be posting things here from time to time. You can still find me around the web.
 
-See ya!
+I've made the switch to Jekyll, my older posts can be found on my [github repo](https://github.com/patricksimpson/posts).

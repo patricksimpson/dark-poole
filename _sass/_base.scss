@@ -68,3 +68,13 @@ mark {
   background-color: var(--yellow-100);
   border-radius: .125rem;
 }
+
+.avatar {
+  border-radius: 50%;
+  max-width: 10rem;
+  padding: 1rem 0;
+}
+
+.flex-container {
+  display: flex;
+}
