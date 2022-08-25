@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Patrick Simpson
+url: https://patricksimpson.me
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,12 +32,12 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Patrick Simpson
+  url: https://www.linkedin.com/in/simpsonpatrick/
+  email: patrick@patricksimpson.me
 
 # Custom vars
-version: 3.0.0
+version: 1.0.0
 
 # Navbar page list
 nav:
